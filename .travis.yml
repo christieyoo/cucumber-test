@@ -7,4 +7,4 @@ before_script:
     - "sh -e /etc/init.d/xvfb start"
     - sleep 3
 script:
-    bundle exec rake
+    bundle exec rake features
