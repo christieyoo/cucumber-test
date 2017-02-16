@@ -1,4 +1,5 @@
 Feature: Google Search
+    Perform a Google search
 
 Scenario: Users can perform a search on Google
     Given I open the Google search page
